@@ -46,8 +46,7 @@ Ya con esto se va poder cambiar todo lo que tu quieras
 
 ---------------------------------------------------
 
-https://streamable.com/n0bk5q
+https://streamable.com/29koux
 
 
-![unknown](https://user-images.githubusercontent.com/109195967/178799458-c490aeb5-663f-434f-90ed-294e94a11a40.png)
-![unknown (1)](https://user-images.githubusercontent.com/109195967/178799497-1b13c0fc-7954-44ea-9738-7d7a11275983.png)
+![unknown](https://cdn.discordapp.com/attachments/1011478056671662081/1011659864872845353/unknown.png)
