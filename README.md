@@ -18,8 +18,6 @@ To change the color of the bar tml/src/js/css/style.css we have to go to line 12
 
 With this you will be able to change everything you want. 
 
-Translated with www.DeepL.com/Translator (free version)
-
 New updates will be implemented soon
 
 -------------------------------------------------
